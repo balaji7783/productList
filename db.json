@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "ProductName": "Printer" },
-    { "id": 2, "ProductName": "Post 2" },
-    { "id": 3, "ProductName": "Post 3" }
+    { "id": 1, "ProductName": "Epson Printer" , "Quantity" : 1 , "Price" : 9000  },
+    { "id": 2, "ProductName": "Moto G5" , "Quantity" : 2 , "Price" : 13000  },
+    { "id": 3, "ProductName": "Racold Geyser" , "Quantity" : 3 , "Price" : 6000  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
